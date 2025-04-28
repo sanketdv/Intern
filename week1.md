@@ -1,5 +1,6 @@
-**Day 1 22/04/2025  
-**        Introduction to DataVerze:
+Day 1 22/04/2025  
+       Introduction to DataVerze:
+        
         Learned that DataVerze is an IT solutions service-based company delivering state-of-the-art tech solutions to its clients.
         • Founders’ Journey: The founders have been working in big data since 2011. In 2016, they ventured into startups and continue to invest in the startup ecosystem.
         • Product-based Ventures : Built ZeroGons in 2020, a no-code/low-code platform. Acquired by Fractal.
@@ -14,7 +15,8 @@
         • Sandeep Sir gave Data Engineering course from Udemy.
 
 
-**Day 2 23/04/2025**
+Day 2 23/04/2025
+       
         • Started Studying  the course , covered some of the modules and setup of softwares like vscode , cursor , pgadmin , postgres sql etc
         • Stdued basics about data lake , datawarehouses
         • Different kind of rdbms like mysql , postgres , oracle , mysqlserver
@@ -22,15 +24,17 @@
         • Studied about oltp and olap
         • Touched upon what is spark , hadoop , kafka , amazon redshift , google bigquery
         • Studied  when to use mysql vs nosql in a website (like eccom uses sql for storing customr buy sell orders and no sql for catalog)
-**
-Day 3 24/04/2025**
+
+Day 3 24/04/2025
+        
         • Studied about how pg admin ide works , its interface etc
         • Studied about creating postgres servers ,  databases , tables etc
         • Studied basic sql commands including window functions
         • Studied views , common table expressions
         • Studied rank functions
-**
-Day 4 25/04/2025**
+
+Day 4 25/04/2025
+        
         • Studied about SQL Troubleshooting and Debugging Guide, Performance Tuning.
         • Completed Exercises from the course regarding PostgreSQL and pgadmin.
         • Studied about Python's basic and Python Collection for Data Engineering, JSON, Data Processing using Pandas DataFrameworks API.
