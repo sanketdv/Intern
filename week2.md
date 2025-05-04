@@ -7,7 +7,6 @@
 - Studied AWS Analytics Services. https://youtu.be/zKq_Ax3J9us?si=x1vHVz9dC29jnt-4
 
 
-
 #### Tuesday 29/04/2025
 - Start of the day with Amit Sir giving agenda of the day.
 - Complete overview of week 1 taken by Div Sir, Amit Sir and Prarthana didi.
@@ -24,3 +23,13 @@
 - Done with the coding part of Assignment 1.
 - Have a conversation with Prarthana didi on teams showing her code and confirmed by her whether the code is as per the assignment given.
 
+
+#### Thursday 01/05/2025
+- After completing the coding part of Assignment 1, I faced many challenges like pytest, black library as a scanning tool whether the code meet basic hygiene or not, wheel file locally, etc.
+- But with the help of documentations, youtube video and chatgpt I was able to learn all and complete all the necesarry action required to complete Assignment 1.
+
+
+#### Friday 02/05/2025
+- Started learning PySpark from the course given.
+- Initially I wasn't able to understand his teaching. I thought may be after 2-3 lectures, I'll be able to understand. But that didn't happen.
+- By using help of youtube video https://youtu.be/_C8kWso4ne4?si=u-APCSKKivpXfXzj I'm done with the basics of PySpark.
