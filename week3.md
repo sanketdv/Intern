@@ -13,3 +13,21 @@
 - Used many SQL functions like sum, count, mean, median, etc
 - Learned how to download the edited dataframe in csv file.
 
+#### Wednesday 07/05/2025
+- First thing in the office was had a discussion with all the colleagues. Sandeep Sir giving brief about hadoop and its history.
+- Amit Sir with whats the update of week 2, any issues regarding assignments given to us and ACID properties in databases.
+- After the discussion learned about ACID properties brief with the help of youtube video. (https://youtu.be/-GS0OxFJsYQ?si=SiNKuj_uGbqk8PHI)
+- Learned about Data Warehousing (https://youtu.be/vv0ReKrEQf4?si=6O5vQ5x8_kG32ulH)
+
+#### Thursday 08/05/2025
+- Completed the course.
+- Got an assignment by Kanchan Bora. Had a one on one chat with her about the assignment and asked some of doubts regarding that.
+- The assignment had too many thing which I dont know, so learned how to do that things. brief about it is in assignment4 repo.
+- Just giving an overview, connect csv file through AWS S3 bucket in colab. I was having issue whether to give secret key and secret access key to it or not.
+- When you are joining large dataset with the smaller one why to use broadcast join in place of normal join.
+
+#### Friday 09/05/2025
+- Had cleared all my doubts regarding assignment, I started with it.
+- While creating a dataset, I was having trouble. The code I was running was giving me atleast 1 column empty. So by changing the syntax atleast 5 to 6 times gives me the dataset I can work on.
+- Covering all the objective of the assignment. by the end of day I was done with it.
+- Was optimising it, so searched through many website and video for optimisation methods get some time and by saturday done with assignment and send on Monday.
